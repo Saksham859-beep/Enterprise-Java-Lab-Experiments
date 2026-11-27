@@ -1,4 +1,4 @@
-# Student Management REST API 🎓
+# Enterprise Java Lab: Exeriments 1-9(Rollno-12411032,Branch-CSE-A)
 
 Welcome to my Enterprise Java Lab project! This repository contains a fully functional Spring Boot REST API for managing students and their enrolled courses. 
 
