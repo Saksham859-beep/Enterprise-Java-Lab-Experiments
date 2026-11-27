@@ -1,4 +1,4 @@
-# Enterprise Java Lab: Student Management REST API
+# Enterprise Java Lab: Exeriments 1-9
 
 A Spring Boot REST API for managing students and their courses. It was built step by step across Enterprise Java Lab Experiments 1 to 9, starting from a single `/hello` endpoint and ending with a secured, validated, tested API backed by MySQL.
 
@@ -313,4 +313,4 @@ students                          course
 
 ## Author
 
-Enterprise Java Lab coursework. Experiments 1 to 9.
+Name-Saksham Jain.ROLL-NO-12411032.Branch-CSE-A.Enterprise Java Lab coursework.Experiments 3 to 9.
