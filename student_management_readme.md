@@ -225,3 +225,6 @@ Running into issues? Here are the most common culprits:
 | **I keep getting a 401 Unauthorized** | The API is secured! Pass the credentials with `-u admin:admin123` in cURL. |
 | **POST works in cURL (Linux) but fails in CMD** | Windows CMD is picky about JSON quotes. Escape them like `\"name\":\"John\"`. |
 | **IDs aren't auto-generating properly** | If you're using an older version of the table from before Exp 8, drop the tables and let Hibernate recreate them, or run `sql/03-exp8-auto-increment-fix.sql`. |
+## Author
+
+Name-Saksham Jain.ROLL-NO-12411032.Branch-CSE-A.Enterprise Java Lab coursework.Experiments 3 to 9.
