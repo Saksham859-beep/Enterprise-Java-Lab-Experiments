@@ -1,4 +1,4 @@
-# Enterprise Java Lab: Exeriments 1-9
+# Enterprise Java Lab: Exeriments 1-9(Rollno-12411032,Branch-CSE-A)
 
 A Spring Boot REST API for managing students and their courses. It was built step by step across Enterprise Java Lab Experiments 1 to 9, starting from a single `/hello` endpoint and ending with a secured, validated, tested API backed by MySQL.
 
