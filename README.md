@@ -44,18 +44,6 @@ enterprise-java-lab/
 │   ├── experiment-07-validation-exception-handling.md
 │   ├── experiment-08-api-testing.md
 │   └── experiment-09-basic-authentication.md
-├── sql/
-│   ├── 01-create-database.sql
-│   ├── 02-verify-tables.sql
-│   ├── 03-exp8-auto-increment-fix.sql
-│   └── 04-sample-data.sql
-├── scripts/
-│   ├── common.sh
-│   ├── exp03-04-crud.sh
-│   ├── exp05-search-page-sort.sh
-│   ├── exp06-course-relationship.sh
-│   ├── exp07-validation.sh
-│   └── exp09-security.sh
 └── student-management/
     ├── pom.xml
     └── src/
